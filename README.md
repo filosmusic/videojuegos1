@@ -1,2 +1,2 @@
-# videojuegos1
+# Videojuegos I
 Bachelor laSalle - Videojuegos 1
